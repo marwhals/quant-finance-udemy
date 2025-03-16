@@ -1,0 +1,58 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+venv/
+env/
+ENV/
+.venv/
+*.venv/
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+
+# PyInstaller
+#  PyInstaller creates a lot of files in the project root folder.
+#  You probably want to ignore these.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.coverage
+*.cover
+.hypothesis/
+.tox/
+.nox/
+*.nox
+*.coverage
+*.hypothesis
+
+# IDE / Editor directories and files
+# JetBrains IDEs
+.idea/
+
+# VS Code
+.vscode/
+
+# Eclipse
+.project
+.pydevproject
+
+# MacOS Finder folder
+.DS_Store
+
+# Windows Installer files
+Thumbs.db
+
+# Environment variables files
+.env
+.env.*
